@@ -1,0 +1,4 @@
+TL;DR:
+
+
+Python repository with scripts for web scraping and data analysis. Utilises BeautifulSoup, requests, and Pandas to extract insights from Wikipedia's list of largest US companies by revenue. Efficient, flexible, and exportable to CSV.
